@@ -1,4 +1,4 @@
-# Loan-Defaulter-Prediction-using-Machine-Learning
+# Loan Defaulter Prediction Using Machine Learning
 # Abstract:
 The bank Indessa has not been performing well for the last three quarters and would like to improve their bank’s performance by reducing their NPA’s Since the data which is collected is very messy identification of defaulters who are the major cause
 which increases the NPA’s has become difficult. So we are devising a model which can predict whether the person who is a loan applicant or so already has a loan will be a potential defaulter in the future.
